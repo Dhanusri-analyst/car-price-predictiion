@@ -6,7 +6,7 @@ An end-to-end machine learning project that predicts the resale price of a used 
 from real (and messy) listing data scraped from Quikr.com — brand, model, manufacturing
 year, kilometers driven, and fuel type.
 
-🔗 **Live demo:** [your-render-link-here]
+🔗 **Live demo:** https://car-price-predictiion.onrender.com
 📓 **Notebook:** [car_price_prediction.ipynb](./car_price_prediction.ipynb)
 
 ## Problem
